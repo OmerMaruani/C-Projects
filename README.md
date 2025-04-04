@@ -11,7 +11,7 @@ This project implements the *RatATat* card game for 2-6 players, where the first
 
 The Course Management System supports two types of users: students and teachers (admin). Upon logging in, users can choose their role and access the corresponding functionalities.
 
-* Student Features: *
+**Student Features:**
 View and print available courses and schedules.
 Add or delete courses.
 View all records related to a specific course.
