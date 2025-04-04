@@ -16,13 +16,13 @@ View and print available courses and schedules.
 Add or delete courses.
 View all records related to a specific course.
 
-# Teacher Features:
+**Teacher Features:**
 Add or remove students.
 Add or remove courses.
 Add or remove teachers.
 Search and print any data in the system.
 
-# Shared Features:
+**Shared Features:**
 Print courses in batches of 10.
 Print detailed course information.
 Return to the main menu.
