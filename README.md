@@ -8,3 +8,13 @@ This project implements the *RatATat* card game for 2-6 players, where the first
 
 
 # Final Project: Course Manager
+
+The Course Management System manages data for students, teachers, and courses. It reads information from CSV files at the start, allows for data manipulation during runtime, and writes updates back to the same files at the end for data persistence.
+
+Student Management: Stores student information (ID, name, password) and their schedules. Supports adding and updating student records.
+
+Teacher Management: Stores teacher details and course assignments, allowing for teacher scheduling and course allocation.
+
+Course Management: Manages course data (ID, name, teacher, schedule), enabling course creation and teacher assignments.
+
+Data Persistence: Reads data at startup and writes changes back to CSV files (students, teachers, courses) at the program's conclusion to preserve the database.
